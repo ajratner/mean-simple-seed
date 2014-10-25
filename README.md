@@ -32,7 +32,7 @@ To run the node.js server locally, in the root directory:
 The basic directory structure for the seed framework is:
 
     package.json
-    node\_modules/
+    node_modules/
     --- ...
     bower.json
     models.js
