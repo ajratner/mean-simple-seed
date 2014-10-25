@@ -6,7 +6,7 @@ A seed repo for an absolute bare-bones MEAN (MongoDB + node.js + Express + Angul
 
 ## Installation
 
-1. Install [node.js](http://nodejs.org/) & npm
+1. Install [node.js](http://nodejs.org/)
 2. Use npm to install primary dependencies:
 
     npm install
@@ -55,7 +55,7 @@ The basic directory structure for the seed framework is:
 + public/index.html is the static wrapper for the site
 + public/views/ contains the various angularJS views, each of which is a directory with a javascript model/controller file and an html view
 
-## In progress, thansk!
+## In progress
 
 Copyright © 2014 Alex Ratner
 
