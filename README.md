@@ -24,7 +24,8 @@ A seed repo for an absolute bare-bones MEAN (MongoDB + node.js + Express + Angul
 ## Running the application
 
 To run the node.js server locally, in the root directory:
-$ node server.js
+
+    node server.js
 
 ## Basic application structure
 
